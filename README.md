@@ -1,16 +1,3 @@
-# game1_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Matching game using Flutter 
+![img1](https://github.com/ech-chaouny/Matching_Game/assets/121447588/698fece0-5647-4451-9ac1-13b4560cece1)
+![img2](https://github.com/ech-chaouny/Matching_Game/assets/121447588/7dfc0249-2eaa-4ca1-8233-bf8719b1c386)
